@@ -1,6 +1,6 @@
 # EX-4 IMPLEMENTATION OF ADDRESS RESOLUTION PROTOCOL (ARP)
 
-DATE :
+### DATE : 29-03-2023
 
 ## AIM :
 To write a python program for simulating ARP protocols using TCP.
@@ -55,9 +55,9 @@ while True:
 
 ## OUTPUT :
 ### Client.py
-![](4c.png)
+![](1.png)
 ### Server.py
-![](4s.png)
+![](2.png)
 
 
 
